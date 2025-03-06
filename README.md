@@ -1,5 +1,5 @@
 # Best-Kept-Image
-image-duplicate eraser
+Image-Duplicate Eraser
 
 
 Best Kept Image 1.0
